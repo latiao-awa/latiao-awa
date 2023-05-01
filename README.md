@@ -1,8 +1,7 @@
-<p align="center">
+### 
+
+Hi there 👋
+
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=latiao-awa&data=followers,repositories,stars,commits&theme=darkmode)
-</p>
 
-
-
-
-
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=darkmode)
