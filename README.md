@@ -1,4 +1,4 @@
 ### 
 Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=latiao-awa)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=latiao-awa&data=followers,repositories,stars,commits)]
